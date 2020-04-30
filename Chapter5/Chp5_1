@@ -1,0 +1,9 @@
+#dictionaries vs lists
+
+myCat = {'size':'fat','colour':'grey','disposition':'load'}   #dictionary
+
+print(myCat['size'])
+
+print('My cat has ' +myCat['colour'] + ' fur')
+
+
